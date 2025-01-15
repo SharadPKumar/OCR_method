@@ -1,2 +1,5 @@
 # OCR_method
-text extraction from pictures
+Various method to extract text from images.
+- Pytessract
+- easy-ocr
+- keras-ocr
